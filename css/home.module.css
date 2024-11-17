@@ -1,0 +1,13 @@
+
+
+
+.title{ font-size: 30px; line-height: 1.4; text-align: center;}
+.title span{ color: var(--main); vertical-align: sub;}
+.mainImg{ width: 100%; max-width: 500px; display: block; margin: 30px auto;}
+
+.list{ display: flex; align-items: center; justify-content: center; flex-wrap: wrap; padding: 0; margin: 30px auto 0;}
+.list li{ font-size: 14px; margin: 0 10px 10px 0; }
+.list li a{ display: inline-block; text-decoration: none; color: #333;
+    padding: 5px 10px; border: 1px solid var(--beige2); transition: .3s;
+}
+.list li a:hover{ color: var(--main);}

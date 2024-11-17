@@ -1,0 +1,16 @@
+/*!***************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./css/home.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************/
+
+
+
+.home_title__CWlN5{ font-size: 30px; line-height: 1.4; text-align: center;}
+.home_title__CWlN5 span{ color: var(--main); vertical-align: sub;}
+.home_mainImg__bmQ9o{ width: 100%; max-width: 500px; display: block; margin: 30px auto;}
+
+.home_list__lmsxL{ display: flex; align-items: center; justify-content: center; flex-wrap: wrap; padding: 0; margin: 30px auto 0;}
+.home_list__lmsxL li{ font-size: 14px; margin: 0 10px 10px 0; }
+.home_list__lmsxL li a{ display: inline-block; text-decoration: none; color: #333;
+    padding: 5px 10px; border: 1px solid var(--beige2); transition: .3s;
+}
+.home_list__lmsxL li a:hover{ color: var(--main);}

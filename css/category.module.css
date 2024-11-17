@@ -1,0 +1,30 @@
+.title{ font-size: 30px; line-height: 1.4; text-align: center; margin: 40px auto 30px;}
+
+.swiperSlideBox{ margin: 0 0 100px;}
+
+
+.book{ position: relative;}
+.bookImg {
+    display: inline-block; width: 100%; height:auto;
+}
+
+.bookList{ display: flex; flex-wrap: wrap;}
+.bookList .book{ width: 32%; margin: 0 2% 8% 0;}
+.bookList .book:nth-child(3n){ margin-right: 0;}
+
+.book .bookImg{ display: inline-block; width: 100%; }
+.bookList .book .bookImg{ max-height: 350px; overflow: hidden; }
+.bookImg img{ display: inline-block; width: 100%;}
+.rank{ 
+    position: absolute; left: 0; top: 0; 
+    display: inline-flex; width: 40px; height: 40px; align-items: center; justify-content: center;
+    background-color: var(--main); color: white; font-size: 25px;
+}
+.book .rank{ display: none;}
+.bookTitle{ font-size: 18px; margin: 20px 0 15px; line-height: 1.4;}
+.bookAuthor{ font-size: 14px;}
+.bookDesc{ font-size: 13px; color: var(--black2); margin: 10px 0 0;}
+
+.purchase{ display: inline-block; padding: 5px 10px; border: 1px solid var(--black1); font-size: 13px; margin: 20px 0 0; transition: .3s;}
+.purchase:hover{ border-color: var(--main); color: var(--main);}
+.blocked{ color: #a0a0a0;}
