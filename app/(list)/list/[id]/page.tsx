@@ -1,13 +1,18 @@
 import Category from "../../../../componenets/category";
 
-
-export async function generateMetadata({params: {id}}){
-    return{
-        title: id + ' | The New York Times'
+interface ImetaParams {
+    params: {
+        id: string;
     }
 }
 
-export default function Detail({params: {id}}){
+export async function generateMetadata({params: {id}}: ImetaParams){
+    return{
+        title: `${id} | The New York Times`
+    }
+}
+
+export default function Detail(){
     return(
         <div>
             <Category/>
