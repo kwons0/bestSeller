@@ -1,4 +1,4 @@
-import BestSeller from "../../componenets/best-seller";
+import BestSeller from "../../components/best-seller";
 import style from '../../css/home.module.css'
 
 export const metadata = {
