@@ -10,9 +10,8 @@ https://nextjs-bestseller-two.vercel.app/
 
 이 프로젝트는 외부 도서 API를 기반으로 **베스트셀러 도서를 리스트/카테고리별로 조회**할 수 있게 만든 웹 애플리케이션입니다.
 
-- Next.js의 **동적 라우팅(App Router + `useParams`)**을 활용해 `/category/[id]` 경로에 따라 데이터를 동적으로 요청합니다.
-- API 응답 전 **로딩 화면(Loading UI)** 을 표시하여, 빈 화면/깜빡임 없이 대기 상태를 명확히 안내합니다.
-- 느린 네트워크 상황에서도 페이지가 깨져 보이지 않도록 **UX 안정성**을 확보했습니다.
+- Next.js의 동적 라우팅(App Router + `useParams`)을 활용해 `/category/[id]` 경로에 따라 데이터를 동적으로 요청합니다.
+- API 응답 전 로딩 화면(Loading UI) 을 표시하여, 빈 화면/깜빡임 없이 대기 상태를 명확히 안내합니다.
 
 <br/>
 
@@ -38,5 +37,5 @@ https://nextjs-bestseller-two.vercel.app/
 <br/>
 
 ## 📅 프로젝트 정보
-- Date: 2024.11 (제작 기간: 1일)
-- Contribution: 디자인 100%, 개발 100%
+- 기간: 2024.11 (제작 기간: 1일)
+- 기여도: 디자인 100%, 개발 100%
