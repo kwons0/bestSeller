@@ -30,9 +30,8 @@ https://nextjs-bestseller-two.vercel.app/
 
 | 분야 | 사용 기술 |
 |---|---|
-| Framework | Next.js (App Router) |
-| Language | JavaScript/TypeScript (프로젝트 설정에 따라 선택) |
-| Styling | CSS3 |
+| Framework | Next.js, TypeScript |
+| Styling | Tailwindcss |
 | Deploy | Vercel |
 | Data | 외부 도서 API (베스트셀러/카테고리 데이터) |
 
