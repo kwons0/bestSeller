@@ -2,7 +2,8 @@
 
 베스트셀러 도서를 카테고리별로 조회할 수 있는 웹 서비스
 Next.js의 동적 라우팅과 API 데이터를 기반으로 책 정보를 제공합니다.
-https://nextjs-bestseller-two.vercel.app/
+
+🔗 사이트 바로가기 : https://nextjs-bestseller-two.vercel.app/
 
 <br/>
 
