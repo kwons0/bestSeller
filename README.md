@@ -24,6 +24,22 @@ Next.js의 동적 라우팅과 API 데이터를 기반으로 책 정보를 제�
 - **로딩 UI**: API 요청 중 빈 화면 방지 및 상태 안내
 - **반응형 레이아웃**: 모바일 ~ 데스크톱 자연스러운 레이아웃
 
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a5b394e5-e525-43fc-9992-3a54c8343a6a" width="200px" /><br />
+      <sub>베스트셀러 목록 조회</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/efea5dac-5330-4d2f-b144-5a0c0efa6d39" width="200px" /><br />
+      <sub>카테고리별 탐색</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 <br/>
 
 ## 🛠 기술 스택
